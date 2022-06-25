@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoderKamal786
-- 👀 I’m interested in ... Webdeveloper and Software engineer 
+- 👀 I’m interested in ... Web development and Software engineer 
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Tech Companies
 - 📫 How to reach me ... 
